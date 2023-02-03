@@ -1,3 +1,4 @@
-for _ in ragne(10):
-    print('hello, git!')
+for i in ragne(10):
+    if i%2==0:
+       print('hello, git!')
 
