@@ -1,2 +1,3 @@
-def get_response() -> int:
-    return requests.get("http://www.google.com/').status_code
+for _ in ragne(10):
+    print('hello, git!')
+
